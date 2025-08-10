@@ -28,7 +28,7 @@ This project was developed as a Minor Project for the 3rd semester at LNCT Bhopa
 
 ## 📷 Screenshots
 
-![Main UI]("Screenshot 2024-12-19 012607.png")
+![Main UI](screenshots/ui.png)
 
 
 
